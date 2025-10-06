@@ -76,8 +76,6 @@ jupyter notebook who_new.py
 
 **Countries:** 141 nations
 
-**Records:** Over 4 million entries
-
 **Key Variables:** Country, year, sex, age, suicide numbers, population
 
 ## Analytical Methods
@@ -210,8 +208,6 @@ jupyter notebook who_new.py
 **Período:** 1979-2016 (37 anos)
 
 **Países:** 141 nações
-
-**Registros:** Mais de 4 milhões de entradas
 
 **Variáveis Principais:** País, ano, sexo, idade, número de suicídios, população
 
