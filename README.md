@@ -1,7 +1,7 @@
 # WHO Suicide Data Analysis
 
 ## Project Overview
-A comprehensive data analysis of World Health Organization suicide statistics from 1979 to 2016, covering 101 countries. This project explores patterns, trends, and risk factors using Python, data visualization, and machine learning techniques.
+A comprehensive data analysis of World Health Organization suicide statistics from 1979 to 2016, covering 141 countries. This project explores patterns, trends, and risk factors using Python, data visualization, and machine learning techniques.
 
 ## Key Objectives
 - Analyze global suicide trends over 37 years
@@ -74,7 +74,7 @@ jupyter notebook who_new.py
 
 **Time Period:** 1979-2016 (37 years)
 
-**Countries:** 101 nations
+**Countries:** 141 nations
 
 **Records:** Over 4 million entries
 
@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Análise de Dados de Suicídio da OMS
 
 ## Visão Geral do Projeto
-Uma análise de dados abrangente das estatísticas de suicídio da Organização Mundial da Saúde de 1979 a 2016, cobrindo 101 países. Este projeto explora padrões, tendências e fatores de risco usando Python, visualização de dados e técnicas de aprendizado de máquina.
+Uma análise de dados abrangente das estatísticas de suicídio da Organização Mundial da Saúde de 1979 a 2016, cobrindo 141 países. Este projeto explora padrões, tendências e fatores de risco usando Python, visualização de dados e técnicas de aprendizado de máquina.
 
 ## Objetivos Principais
 - Analisar as tendências globais de suicídio ao longo de 37 anos
@@ -209,7 +209,7 @@ jupyter notebook who_new.py
 
 **Período:** 1979-2016 (37 anos)
 
-**Países:** 101 nações
+**Países:** 141 nações
 
 **Registros:** Mais de 4 milhões de entradas
 
