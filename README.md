@@ -54,7 +54,7 @@ who-suicide-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Cyb3-Cairo/who-suicide-analysis.git
+git clone https://github.com/Cyb3r-Cairo/who-suicide-analysis.git
 cd who-suicide-analysis
 ```
 
@@ -187,7 +187,7 @@ who-suicide-analysis/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/Cyb3-Cairo/who-suicide-analysis.git
+git clone https://github.com/Cyb3r-Cairo/who-suicide-analysis.git
 cd who-suicide-analysis
 ```
 
